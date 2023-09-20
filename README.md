@@ -5,10 +5,6 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 The app is using the API of AccuWeather to get desired cities weather information and save it for a later use.
