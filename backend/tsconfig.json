@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "lib": ["ES6"],
+    "strict": true,
+    "isolatedModules": false
+  },
+  "include": ["api/**/*.ts","services/**/*.ts","index.ts"]
+}

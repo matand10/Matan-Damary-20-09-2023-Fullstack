@@ -1,0 +1,29 @@
+:root {
+    /* colors */
+    --blue-one: #0b121e;
+    --blue-two: #202b3c;
+    --blue-three: #313b4b;
+    --blue-four: #627491;
+    --grey-one: rgb(199, 202, 211);
+
+    /* project specific variables */
+    --transition--default: all 0.3s;
+    --border--default: 1px solid var(--grey-one);
+
+    /* font family */
+    --body-font-family: "Rubik", sans-serif;
+
+    /* body text */
+    --body-text-color: #4e4e4e;
+    --body-font-weight: 400;
+    --body-line-height: 1.7;
+    --body-font-size: 16px;
+
+    /* border-radius */
+    --border-radius: 8px;
+
+    /* responsive variables */
+    --breakpoint-small: 768px;
+    --breakpoint-medium: 1024px;
+    --breakpoint-large: 1200px;
+}

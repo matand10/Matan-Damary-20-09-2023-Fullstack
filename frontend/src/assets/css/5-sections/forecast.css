@@ -1,0 +1,53 @@
+.forecast-section {
+    flex: 2;
+    margin: 0 20px;
+    height: 100%;
+}
+
+.forecast-section__preview {
+    padding: 28px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    height: 30%;
+    flex: 2;
+    position: relative;
+}
+
+.forecast-section__details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.forecast-section__details h2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.forecast-section__details h2 span {
+    font-size: 1rem;
+    color: var(--blue-four);
+}
+
+.forecast-section__preview .favorite-button {
+    background-color: transparent;
+    position: absolute;
+    right: 0;
+    font-size: 1.6rem;
+}
+
+@media screen and (max-width: 768px) {
+    .forecast-section {
+        flex: 1;
+    }
+
+    .forecast-section__preview {
+        flex: 1;
+    }
+
+    .forecast-animation {
+        height: 50%;
+    }
+}

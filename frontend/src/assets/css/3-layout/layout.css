@@ -1,0 +1,46 @@
+.page-container {
+    display: flex;
+    height: calc(100vh - 20px);
+    margin: 10px;
+}
+
+.navbar-section {
+    height: 100%;
+}
+
+.main-section {
+    flex: 1;
+    display: flex;
+}
+
+@media screen and (max-width: 768px) {
+    .page-container .navbar-section {
+        display: none;
+    }
+
+    .page-container .navbar-section.show {
+        display: block;
+    }
+
+    .page-container .navbar-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        border-radius: 0 0 var(--border-radius) var(--border-radius);
+        max-height: 70vh;
+        box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    }
+
+    .main-section {
+        height: 100%;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .page-container .main-section .button-icon__grey {
+        display: none;
+    }
+}

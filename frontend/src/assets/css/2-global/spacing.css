@@ -1,0 +1,173 @@
+/* .space-xy */
+.space-xy--10 {
+    padding: 10px;
+}
+
+.space-xy--15 {
+    padding: 15px;
+}
+
+/* .space-y */
+.space-y--10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.space-y--15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.space-y--60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/* .space-mt */
+.space-mt--0 {
+    margin-top: 0px;
+}
+
+.space-mt--10 {
+    margin-top: 10px;
+}
+
+.space-mt--15 {
+    margin-top: 15px;
+}
+
+.space-mt--20 {
+    margin-top: 20px;
+}
+
+.space-mt--30 {
+    margin-top: 30px;
+}
+
+.space-mt--40 {
+    margin-top: 40px;
+}
+
+.space-mt--70 {
+    margin-top: 70px;
+}
+
+/* .space-mb */
+.space-mb--5 {
+    margin-bottom: 5px;
+}
+
+.space-mb--10 {
+    margin-bottom: 10px;
+}
+
+.space-mb--15 {
+    margin-bottom: 15px;
+}
+
+.space-mb--20 {
+    margin-bottom: 20px;
+}
+
+.space-mb--25 {
+    margin-bottom: 25px;
+}
+
+.space-mb--30 {
+    margin-bottom: 30px;
+}
+
+.space-mb--40 {
+    margin-bottom: 40px;
+}
+
+.space-mb--50 {
+    margin-bottom: 50px;
+}
+
+.space-mb--70 {
+    margin-bottom: 70px;
+}
+
+.space-mb--80 {
+    margin-bottom: 80px;
+}
+
+/* .space-mb-m */
+.space-mb-m--15 {
+    margin-bottom: -15px;
+}
+
+.space-mb-m--20 {
+    margin-bottom: -20px;
+}
+
+/* .space-pb */
+.space-pb--10 {
+    padding-bottom: 10px;
+}
+
+.space-pb--15 {
+    padding-bottom: 15px;
+}
+
+.space-pb--25 {
+    padding-bottom: 25px;
+}
+
+.space-pb--30 {
+    padding-bottom: 30px;
+}
+
+.space-pb--50 {
+    padding-bottom: 50px;
+}
+
+.space-pb--55 {
+    padding-bottom: 55px;
+}
+
+.space-pb--60 {
+    padding-bottom: 60px;
+}
+
+.space-pb--90 {
+    padding-bottom: 90px;
+}
+
+.space-pb--120 {
+    padding-bottom: 120px;
+}
+
+/* .space-pt */
+.space-pt--5 {
+    padding-top: 5px;
+}
+
+.space-pt--10 {
+    padding-top: 10px;
+}
+
+.space-pt--15 {
+    padding-top: 15px;
+}
+
+.space-pt--25 {
+    padding-top: 25px;
+}
+
+.space-pt--30 {
+    padding-top: 30px;
+}
+
+.space-pt--60 {
+    padding-top: 60px;
+}
+
+.space-pt--70 {
+    padding-top: 70px;
+}
+
+.space-pt--100 {
+    padding-top: 100px;
+}
