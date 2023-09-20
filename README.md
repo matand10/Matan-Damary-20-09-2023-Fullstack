@@ -4,7 +4,6 @@
 - [About](#about)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 
 ## About
 The app is using the API of AccuWeather to get desired cities weather information and save it for a later use.
@@ -26,3 +25,9 @@ cd your-project
 
 # Install dependencies
 npm install
+
+# Run app
+npm start
+
+# Check both sides runining
+Do it in the both sides
